@@ -3,7 +3,10 @@ package dataTypes;
 public class DoWhileLoop {
 
 	public static void main(String[] args) {
-		String place = "Staten Island";
+		
+		//Made Changes to the place 
+		
+		String place = "The Bronx";
 		int start = 1;
 		do
 		{
